@@ -4,7 +4,7 @@
 </p>
 
 [Threat Dragon][project] is a free, open-source, cross-platform threat modeling application from [OWASP][owasp].
-It is open cource and contributions to the [threat-dragon repo][repo] are welcome.
+Threat Dragon is open source and contributions to the [repo][repo] are welcome.
 
 The Threat Dragon logo is called Cupcake, and we aim to make threat modeling less threatening.
 
