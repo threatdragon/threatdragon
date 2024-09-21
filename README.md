@@ -3,7 +3,8 @@
   width="200" alt="Threat Dragon Logo"/>
 </p>
 
-[Threat Dragon][project] is a free, open-source, cross-platform threat modeling application from [OWASP](https://www.owasp.org).
+[Threat Dragon][project] is a free, open-source, cross-platform threat modeling application from [OWASP][owasp].
+It is open cource and contributions to the [threat-dragon repo][repo] are welcome.
 
 The Threat Dragon logo is called Cupcake, and we aim to make threat modeling less threatening.
 
@@ -13,4 +14,6 @@ Cupcake has a birthday as well: [DЯΣΛMƧVΣЯƧΣ][dreamsverse] uploaded the 
 
 [commit]: https://github.com/mike-goodwin/owasp-threat-dragon/commit/942bdff78191ef0eae40f7610b8397739749d8b8
 [dreamsverse]: https://linktr.ee/dreamsverse
+[owasp]: https://www.owasp.org
 [project]: https://owasp.org/www-project-threat-dragon
+[repo]: https://github.com/OWASP/threat-dragon
